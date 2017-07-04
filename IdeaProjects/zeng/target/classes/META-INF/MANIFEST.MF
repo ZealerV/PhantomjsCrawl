@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Class-Path: libs/selenium-firefox-driver-2.53.0.jar libs/commons-exec-
+ 1.3.jar libs/httpclient-4.5.1.jar libs/netty-3.5.7.Final.jar libs/sel
+ enium-chrome-driver-2.53.0.jar libs/httpcore-4.4.3.jar libs/cglib-nod
+ ep-2.1_3.jar libs/selenium-support-2.53.0.jar libs/selenium-leg-rc-2.
+ 53.0.jar libs/jna-4.1.0.jar libs/selenium-safari-driver-2.53.0.jar li
+ bs/commons-logging-1.2.jar libs/commons-codec-1.9.jar libs/jna-platfo
+ rm-4.1.0.jar libs/phantomjsdriver-1.2.1.jar libs/gson-2.3.1.jar libs/
+ selenium-edge-driver-2.53.0.jar libs/commons-io-2.5.jar libs/selenium
+ -java-2.53.0.jar libs/guava-19.0.jar libs/selenium-ie-driver-2.53.0.j
+ ar libs/selenium-remote-driver-2.53.0.jar libs/selenium-api-2.53.0.ja
+ r
+Main-Class: test
+
